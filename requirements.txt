@@ -1,6 +1,0 @@
-flask==0.12.2
-flask-limiter == 1.0.1
-Flask-restful == 0.2.12
-sqlight3 == 3.18.2 
-sqlalchemy == 1.2.14
-werkzeug == 0.14.1
